@@ -6,7 +6,7 @@ We’re excited to announce the first release of our **Field Force Management Sy
 ---
 
 ## Key Features:
-- **Cross-Platform Compatibility:** Use the app on Android (APK) or Windows (MSIX/EXE) for maximum flexibility.
+- **Cross-Platform Compatibility:** Use the app on Android (APK) or Windows (MSIX) for maximum flexibility.
 - **Field Operations Management:** Manage field activities like tasks such as including bill delivery customer location tracking, disconnection, reconnection, ticketing, cash collection tracker for marketing team, and updates in real time.
 - **Offline Mode:** Perform critical operations without an active internet connection.
 - **User-Friendly Interface:** Intuitive design for efficient navigation and usage.
