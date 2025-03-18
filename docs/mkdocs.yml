@@ -1,0 +1,15 @@
+site_name: JED-FFM Docs
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+nav:
+  - Home: index.md
+  - Common Actions:
+      - Bill Delivery: bill_delivery.md
+      # - Posting Payment: posting_payment.md
+      # - Scheduling Disconnection: scheduling_disconnection.md
+      # - Validating a Customer: validating_customer.md
