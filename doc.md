@@ -1,3 +1,5 @@
+pip install mkdoc-material 
+
 python -m mkdocs new docs 
 cd docs
 
